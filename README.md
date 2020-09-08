@@ -6,6 +6,7 @@ My name is Justin Trombley and I'm a full-stack web developer with a background 
 
 ### Beerthoven, Front-End Developer
 A React web application that allows staff members to create and track event data.
+
 **React | GraphQL | Apollo | Ant Design | Chart.js**
 - Collaborated remotely with a team of 5 Web Developers and 2 UX/UI designers to build a fully functional web application
 - Learned Apollo and built several forms handling state management
@@ -13,6 +14,7 @@ A React web application that allows staff members to create and track event data
 ### HorrorJourney, Full-Stack Developer
 A React web application that allows horror movie fans to
 rate and add films to their private collection.
+
 **JavaScript | React | Context | NodeJS | Express**
 - Created a fully functional CRUD application in less than 36 hours
 - Solely responsible for creating the front-end and backend functionality
