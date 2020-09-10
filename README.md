@@ -22,7 +22,7 @@ rate and add films to their private collection.
 ### Online-Shop, Full-Stack Developer
 STILL IN PROGRESS
 
-**JavaScript | React | Redux | Stripe | GraphQL | Apollo | Firebase
+**JavaScript | React | Redux | Stripe | GraphQL | Apollo | Firebase**
 
 <!--
 **JustinTrombley96/JustinTrombley96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
